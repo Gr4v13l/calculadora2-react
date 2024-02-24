@@ -1,0 +1,38 @@
+button{
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.wrapper{
+    background-color: rgb(185, 87, 87);
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.orange{
+    background-color: #e32b1d;
+    color: rgb(0, 0, 0);
+}
+
+.gray{
+    background-color: #bba3a3;
+    color: rgb(0, 0, 0);
+}
+.result{
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1em;
+    font-size:3.5em;
+}
+.botao {
+    background-color: #e32b1d;
+}
